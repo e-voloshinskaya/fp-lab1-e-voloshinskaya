@@ -69,6 +69,7 @@ First of all we need to express $x = \varphi (x)$ from the original equation
 $f(x) = 0$.
 
 $\varphi (x)$ should satisfy the conditions:
+
 $$\varphi (x) \in [a, b], \forall x \in [a, b]$$
 $$\exists q: |\varphi' (x)| \leq q < 1, \forall x \in [a, b]$$
 
