@@ -1,6 +1,4 @@
-All equations should be specified as functional parameters, to make functions sufficiently generic. Also, take advantage of the fact that Newton's method is a special case for more generic method of iterations, and make sure to re-use the code.
-
-Please apply three procedures for three methods to three consecutive equations in the table 2 of the handout, starting from the row specified by your personal number from the class list. You should produce a table with a total of 9 solutions.[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11762058&assignment_repo_type=AssignmentRepo)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11762058&assignment_repo_type=AssignmentRepo)
 # FP: Lab 1. Computing Things Functionally
 
 ## Solving simple computational problems in functional style
