@@ -5,7 +5,7 @@
 ### Student: 
 |Name        |Group      | # in group list |Mark|
 |------------|-----------|-----------------|----|
-|Voloshinskaya Evgeniya|М8О-406Б-21| 8              |    |
+|Voloshinskaya Evgeniya|М8О-406Б-21 (prev. М8О-407Б-20)| 8              |    |
 
 ## Solving simple computational problems in functional style
 
